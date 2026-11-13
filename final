@@ -1,0 +1,114 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <encoding="UTF-8">
+    <Divina Grace S. Ruflo="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>MY PERSONAL PORTFOLIO</h1>
+    <p>Welcome to my personal website!</p>
+</header>
+
+<nav>
+    <a href="Culong Guimba Nueva Ecija">Home</a>
+#ffb5aa#ff555f    <a href="09701369462">Personal Info</a>
+    <a href="Our Lady of the Sacred Heart College">Education</a>
+    <a href="I will boost my confidence.">Skills</a>
+    <a href="Java">Java Code</a>
+</nav>
+
+<section id="Culong Guimba Nueva Ecija">
+    <h2>Welcome to My Portfolio</h2>
+    <h3>Hi! I'm Divina Grace S. Ruflo</h3>
+    <p>
+        I am a first-year college student taking
+        Bachelor of Science in Information Technology.
+        I am interested in learning programming,
+        computer technology, and web development.
+    </p>
+</section>
+
+<section id="cute">
+    <h2>Personal Information</h2>
+    <p></b> Divina Grace S. Ruflo</p>
+    <p></b> 18 years old</p>
+    <p><b> Culong, Guimba, Nueva Ecija</p>
+    <p></b> BS Information Technology</p>
+    <p><b>First Year College</p>
+    <p></b> divinagraceruflo@gmail.com</p>
+    <h3>About Me
+
+My name is Divina Grace S. Ruflo, and I am 18 years old. I am a friendly, hardworking, and responsible person who is always willing to learn new things. I believe in myself, value the people who support me, and strive to achieve my dreams. I always do my best to improve myself, face challenges, and become a better person every day.</h3>
+  
+    </p>
+</section>
+
+<section id="Our Lady of the Sacred Heart College">
+    <h2>Currently a First Year College Student</h2>
+
+    <div class="card">
+        <h3>College</h3>
+        <p>Our Lady of the Sacred Heart College</p>
+        <p>BS Information Technology</p>
+        <p>First Year College</p>
+    </div>
+
+    <div class="card">
+        <h3>Triala National High School</h3>
+        <p>Triala National Hign School</p>
+        <p>Humss</p>
+    </div>
+
+    <div class="card">
+        <h3>Triala National High School</h3>
+        <p>Triala National High School</p>
+    </div>
+
+    <div class="card">
+        <h3>Culong Elementary School</h3>
+        <p>Culong Elementary School</p>
+    </div>
+</section>
+
+<section id="skills">
+    <h2>I will boost my confidence.</h2>
+
+    <div class="card">
+        <h3>HTML and CSS Fundamentals</h3>
+        <p>HTML (Index.html)CSS(Style.css)</p>
+        <p>Basic Java Program</p>
+        <p>CD, ODIT, EUREKA</p>
+        <p>CD, ODIT, EUREKA</p>
+    </div>
+
+    <div class="card">
+        <h3>Responsible and Hardworking</h3>
+        <p>Listening attentively</p>
+        <p>Sharing ideas and opinions</p>
+        <p>Prioritizing important tasks</p>
+        <p>Exploring new ways to improve work</p>
+    </div>
+</section>
+
+<section id="java">
+    <h2>My Java Project</h2>
+    <h3>CC102 Final Performance Task</h3>
+    <p>
+    </p>
+
+    <pre><code>
+    </code></pre>
+</section>
+
+<footer>
+    <p>© 2026 Divina Grace S. Ruflo</p>
+    <p>Personal Portfolio | BS Information Technology</p>
+</footer>
+
+</body>
+</html>
